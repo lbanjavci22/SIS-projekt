@@ -1,0 +1,130 @@
+ID,Req. Timestamp,Resp. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body
+139,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000/1390325756888708202,404,Not Found,8,667,158
+141,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000/WEB-INF/web.xml,404,Not Found,7,667,154
+142,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000/WEB-INF/applicationContext.xml,404,Not Found,0,667,169
+143,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000/WEB-INF/classes/web/xml.class,404,Not Found,8,667,168
+144,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000/WEB-INF/classes/applicationContext/xml.class,404,Not Found,0,667,183
+145,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000/?-s,200,OK,8,932,8
+146,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,POST,http://localhost:4000/?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input,404,Not Found,8,667,140
+147,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,POST,http://localhost:4000/sitemap.xml?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input,404,Not Found,8,667,151
+148,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,POST,http://localhost:4000/robots.txt?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input,404,Not Found,16,667,150
+149,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,POST,http://localhost:4000/?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input,404,Not Found,8,667,140
+150,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,POST,http://localhost:4000/sitemap.xml?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input,404,Not Found,0,667,151
+151,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,POST,http://localhost:4000/robots.txt?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input,404,Not Found,8,667,150
+152,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000,200,OK,0,932,8
+153,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,0,667,149
+154,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,8,667,150
+155,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000?class.module.classLoader.DefaultAssertionStatus=nonsense,400,Bad Request,0,47,0
+156,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:04 CET 2025,GET,http://localhost:4000/robots.txt?class.module.classLoader.DefaultAssertionStatus=nonsense,404,Not Found,8,667,149
+157,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000?aaa=bbb,400,Bad Request,3,47,0
+158,Tue Dec 16 18:36:04 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml?class.module.classLoader.DefaultAssertionStatus=nonsense,404,Not Found,10,667,150
+159,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,POST,http://localhost:4000/robots.txt,404,Not Found,3,667,150
+160,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,POST,http://localhost:4000,404,Not Found,6,667,140
+161,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,POST,http://localhost:4000/sitemap.xml,404,Not Found,6,667,151
+162,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,POST,http://localhost:4000,404,Not Found,2,667,140
+163,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/latest/meta-data/,404,Not Found,0,667,156
+164,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/latest/meta-data/,404,Not Found,0,667,156
+165,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/computeMetadata/v1/,404,Not Found,0,667,158
+166,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/computeMetadata/v1/,404,Not Found,8,667,158
+167,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/opc/v1/instance/,404,Not Found,0,667,155
+168,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/opc/v1/instance/,404,Not Found,8,667,155
+169,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/latest/meta-data/,404,Not Found,0,667,156
+170,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/latest/meta-data/,404,Not Found,0,667,156
+171,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/metadata/instance,404,Not Found,8,667,156
+172,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/,200,OK,8,932,8
+173,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt/,404,Not Found,0,667,150
+174,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml/,404,Not Found,0,667,151
+175,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/elmah.axd,404,Not Found,0,667,148
+176,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/trace.axd,404,Not Found,0,667,148
+177,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.htaccess,404,Not Found,0,667,148
+178,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.env,404,Not Found,8,667,143
+179,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/zap2818507781445042749,404,Not Found,0,667,161
+180,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/actuator/health,404,Not Found,7,667,154
+181,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.zap7029921335793859089,404,Not Found,2,667,162
+182,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/actuator/health,404,Not Found,9,667,154
+183,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/lfm.php,404,Not Found,2,667,146
+184,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.idea/WebServers.xml,404,Not Found,2,667,159
+185,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/config/databases.yml,404,Not Found,1,667,159
+186,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/config/database.yml,404,Not Found,1,667,158
+187,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.git/config,404,Not Found,0,667,150
+188,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.svn/entries,404,Not Found,8,667,151
+189,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.svn/wc.db,404,Not Found,0,667,149
+190,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/CVS/root,404,Not Found,0,667,147
+191,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/server-status,404,Not Found,8,667,152
+192,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/core,404,Not Found,0,667,143
+193,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sftp-config.json,404,Not Found,8,667,155
+194,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/WS_FTP.ini,404,Not Found,0,667,149
+195,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/ws_ftp.ini,404,Not Found,0,667,149
+196,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/WS_FTP.INI,404,Not Found,0,667,149
+197,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/filezilla.xml,404,Not Found,0,667,152
+198,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemanager.xml,404,Not Found,0,667,154
+199,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/FileZilla.xml,404,Not Found,0,667,152
+200,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/winscp.ini,404,Not Found,0,667,149
+201,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/WinSCP.ini,404,Not Found,0,667,149
+202,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.DS_Store,404,Not Found,0,667,148
+203,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.php_cs.cache,404,Not Found,8,667,152
+204,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/DEADJOE,404,Not Found,0,667,146
+205,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sites/default/private/files/backup_migrate/scheduled/test.txt,404,Not Found,0,667,200
+206,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/app/etc/local.xml,404,Not Found,0,667,156
+207,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/server.key,404,Not Found,0,667,149
+208,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/privatekey.key,404,Not Found,8,667,153
+209,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/myserver.key,404,Not Found,0,667,151
+210,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/key.pem,404,Not Found,0,667,146
+211,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/id_rsa,404,Not Found,0,667,145
+212,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/id_dsa,404,Not Found,0,667,145
+213,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.ssh/id_rsa,404,Not Found,8,667,150
+214,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.ssh/id_dsa,404,Not Found,0,667,150
+215,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/adminer.php,404,Not Found,0,667,150
+216,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/vb_test.php,404,Not Found,0,667,150
+217,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/CHANGELOG.txt,404,Not Found,0,667,152
+218,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sites/default/files/.ht.sqlite,404,Not Found,8,667,169
+219,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/composer.json,404,Not Found,0,667,152
+220,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/composer.lock,404,Not Found,0,667,152
+221,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/vim_settings.xml,404,Not Found,8,667,155
+222,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/server-info,404,Not Found,0,667,150
+223,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/phpinfo.php,404,Not Found,8,667,150
+224,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/info.php,404,Not Found,0,667,147
+225,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/i.php,404,Not Found,0,667,144
+226,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/test.php,404,Not Found,8,667,147
+227,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/_wpeprivate/config.json,404,Not Found,0,667,162
+228,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/_framework/blazor.boot.json,404,Not Found,0,667,166
+229,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.hg,404,Not Found,0,667,142
+230,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/.bzr,404,Not Found,0,667,143
+231,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/._darcs,404,Not Found,0,667,146
+232,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/BitKeeper,404,Not Found,2,667,148
+233,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,0,932,8
+234,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,0,667,149
+235,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,0,667,150
+236,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,0,932,8
+237,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,0,667,149
+238,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,8,667,150
+239,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,8,932,8
+240,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,0,667,149
+241,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,0,667,150
+242,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,0,932,8
+243,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,0,667,149
+244,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,0,667,150
+245,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,8,932,8
+246,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,0,667,149
+247,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,0,667,150
+248,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,0,932,8
+249,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,8,667,149
+250,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,8,667,150
+251,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,0,932,8
+252,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,3,667,149
+253,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,5,667,150
+254,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,2,932,8
+255,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,3,667,149
+256,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,3,667,150
+257,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,4,932,8
+258,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,4,667,149
+259,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,3,667,150
+260,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,2,932,8
+261,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,2,667,149
+262,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,2,667,150
+263,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,2,667,149
+264,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,4,932,8
+265,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,2,667,150
+266,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/robots.txt,404,Not Found,1,667,149
+267,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000/sitemap.xml,404,Not Found,2,667,150
+268,Tue Dec 16 18:36:05 CET 2025,Tue Dec 16 18:36:05 CET 2025,GET,http://localhost:4000,200,OK,1,932,8
